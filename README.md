@@ -1,5 +1,5 @@
 # Snake
-Very simple implementation of the classical snake game written in java.
+Very simple (early, pre-university) implementation of the classical snake game written in java.
 
 # Usage
 
